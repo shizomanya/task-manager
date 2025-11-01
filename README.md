@@ -5,12 +5,6 @@
     A simple and flexible task management web application.
 </p>
 
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/shizomanya/python-project-lvl4/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/shizomanya/python-project-lvl4/actions)
-[![Python CI](https://github.com/shizomanya/python-project-lvl4/actions/workflows/ci.yml/badge.svg)](https://github.com/shizomanya/python-project-lvl4/actions/workflows/ci.yml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/b1461bbe9c019ff68bd1/maintainability)](https://codeclimate.com/github/shizomanya/python-project-lvl4/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/b1461bbe9c019ff68bd1/test_coverage)](https://codeclimate.com/github/shizomanya/python-project-lvl4/test_coverage)
-
 <p>
 <a href="#about">About</a> •
 <a href="#installation">Installation</a> •
@@ -138,3 +132,4 @@ _The dev server will be at http://127.0.0.1:8000._
 | Statuses           | You can add, update, delete statuses of the tasks, if you are logged in. The statuses which correspond with any tasks cannot be deleted.                                |
 | Labels             | You can add, update, delete labels of the tasks, if you are logged in. The label which correspond with any tasks cannot be deleted.                                     |
 | Tasks              | You can add, update, delete tasks, if you are logged in. You can also filter tasks on the relevant page with given statuses, exetutors and labels.                      |
+
