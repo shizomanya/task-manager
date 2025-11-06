@@ -10,6 +10,25 @@
 <a href="#installation">Installation</a> •
 <a href="#usage">Usage</a> 
 </p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/Django-5.0-092E20?style=for-the-badge&logo=django&logoColor=fff" alt="Django">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="Bootstrap 5">
+  <img src="https://img.shields.io/badge/Gunicorn-Server-499848?style=for-the-badge&logo=gunicorn&logoColor=fff" alt="Gunicorn">
+
+  <img src="https://img.shields.io/badge/Poetry-Dependency%20Manager-60A5FA?style=for-the-badge&logo=poetry&logoColor=fff" alt="Poetry">
+  <img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=fff" alt="pytest">
+  <img src="https://img.shields.io/badge/flake8-Linting-F05032?style=for-the-badge&logo=python&logoColor=fff" alt="Flake8">
+
+  <a href="https://python-project-lvl4-k898.onrender.com">
+    <img src="https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=fff" alt="Deployed on Render">
+  </a>
+
+</p>
+
 </div>
 
 <details><summary style="font-size:larger;"><b>Table of Contents</b></summary>
@@ -132,4 +151,5 @@ _The dev server will be at http://127.0.0.1:8000._
 | Statuses           | You can add, update, delete statuses of the tasks, if you are logged in. The statuses which correspond with any tasks cannot be deleted.                                |
 | Labels             | You can add, update, delete labels of the tasks, if you are logged in. The label which correspond with any tasks cannot be deleted.                                     |
 | Tasks              | You can add, update, delete tasks, if you are logged in. You can also filter tasks on the relevant page with given statuses, exetutors and labels.                      |
+
 
